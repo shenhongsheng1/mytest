@@ -1,0 +1,4 @@
+public static void main(Sytem[] args){
+
+    System out println("aaa");
+}
